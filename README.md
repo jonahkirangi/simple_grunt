@@ -1,5 +1,4 @@
-#simple_grunt
-============
+#Simple Grunt
 
 Initial exercise to make sure your environment is set up to run Grunt.
 
